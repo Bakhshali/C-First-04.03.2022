@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\bin\Debug\netcoreapp3.1\forTASK-2.exe
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\bin\Debug\netcoreapp3.1\forTASK-2.deps.json
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\bin\Debug\netcoreapp3.1\forTASK-2.runtimeconfig.json
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\bin\Debug\netcoreapp3.1\forTASK-2.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\bin\Debug\netcoreapp3.1\forTASK-2.dll
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\bin\Debug\netcoreapp3.1\forTASK-2.pdb
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.AssemblyInfo.cs
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.dll
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.pdb
+C:\Users\Ali\source\repos\forTASK-2\forTASK-2\obj\Debug\netcoreapp3.1\forTASK-2.genruntimeconfig.cache
